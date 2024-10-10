@@ -16,7 +16,7 @@
 
 - 💼 I'm currently working on: **💻 Developing "Minitroopers" from scratch with modern web technologies**
 - 💬 Ask me about: **💡 TypeScript, Angular, Node.js and PostgreSQL**
-- 📂 Portfolio: **<a href="https://fab-dev.xyz" target="_blank">fab-dev.xyz</a>**
+- 📂 Portfolio: **fab-dev.xyz**
 
  **<h3 align="left">Skills</h3>**
 
